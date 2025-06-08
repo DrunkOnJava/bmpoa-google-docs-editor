@@ -1,0 +1,145 @@
+BMPOA Document Image Report
+============================================================
+
+Total Images: 23
+
+1. Untitled Image
+   Size: 468x352 PT
+   Aspect Ratio: 1.33
+   Location: Index 16
+   Context: Image appears to be related to map based on keyword 'property'
+
+2. Untitled Image
+   Size: 287x300 PT
+   Aspect Ratio: 0.96
+   Location: Index 17
+   Context: Image appears to be related to map based on keyword 'property'
+
+3. Untitled Image
+   Size: 468x313 PT
+   Aspect Ratio: 1.50
+   Location: Index 18
+   Context: Image appears to be related to map based on keyword 'property'
+
+4. Untitled Image
+   Size: 468x392 PT
+   Aspect Ratio: 1.19
+   Location: Index 19
+   Context: Image appears to be related to map based on keyword 'property'
+
+5. Untitled Image
+   Size: 468x351 PT
+   Aspect Ratio: 1.33
+   Location: Index 20
+   Context: Image appears to be related to map based on keyword 'property'
+
+6. Untitled Image
+   Size: 468x606 PT
+   Aspect Ratio: 0.77
+   Location: Index 21
+   Context: Image appears to be related to map based on keyword 'property'
+
+7. Untitled Image
+   Size: 134x96 PT
+   Aspect Ratio: 1.40
+   Location: Index 22
+   Context: Image appears to be related to map based on keyword 'property'
+
+8. Untitled Image
+   Size: 468x301 PT
+   Aspect Ratio: 1.55
+   Location: Index 23
+   Context: Image appears to be related to map based on keyword 'property'
+
+9. Untitled Image
+   Size: 468x624 PT
+   Aspect Ratio: 0.75
+   Location: Index 24
+   Context: Image appears to be related to map based on keyword 'property'
+
+10. Untitled Image
+   Size: 468x624 PT
+   Aspect Ratio: 0.75
+   Location: Index 25
+   Context: Image appears to be related to map based on keyword 'property'
+
+11. Untitled Image
+   Size: 468x467 PT
+   Aspect Ratio: 1.00
+   Location: Index 26
+   Context: Image appears to be related to map based on keyword 'property'
+
+12. Untitled Image
+   Size: 468x303 PT
+   Aspect Ratio: 1.54
+   Location: Index 27
+   Context: Image appears to be related to map based on keyword 'property'
+
+13. Untitled Image
+   Size: 468x352 PT
+   Aspect Ratio: 1.33
+   Location: Index 28
+   Context: Image appears to be related to map based on keyword 'property'
+
+14. Untitled Image
+   Size: 468x245 PT
+   Aspect Ratio: 1.91
+   Location: Index 29
+   Context: Image appears to be related to map based on keyword 'property'
+
+15. Untitled Image
+   Size: 468x320 PT
+   Aspect Ratio: 1.46
+   Location: Index 30
+   Context: Image appears to be related to map based on keyword 'property'
+
+16. Untitled Image
+   Size: 468x468 PT
+   Aspect Ratio: 1.00
+   Location: Index 31
+   Context: Image appears to be related to map based on keyword 'property'
+
+17. Untitled Image
+   Size: 468x360 PT
+   Aspect Ratio: 1.30
+   Location: Index 32
+   Context: Image appears to be related to map based on keyword 'property'
+
+18. Untitled Image
+   Size: 468x445 PT
+   Aspect Ratio: 1.05
+   Location: Index 33
+   Context: Image appears to be related to map based on keyword 'property'
+
+19. Untitled Image
+   Size: 468x351 PT
+   Aspect Ratio: 1.33
+   Location: Index 34
+   Context: Image appears to be related to map based on keyword 'property'
+
+20. Untitled Image
+   Size: 468x374 PT
+   Aspect Ratio: 1.25
+   Location: Index 35
+   Context: Image appears to be related to map based on keyword 'property'
+
+21. Untitled Image
+   Size: 393x268 PT
+   Aspect Ratio: 1.46
+   Location: Index 3574
+   Context: Image appears to be related to map based on keyword 'property'
+   Description: Virginia State Flag
+
+22. Untitled Image
+   Size: 393x253 PT
+   Aspect Ratio: 1.56
+   Location: Index 15330
+   Context: Image appears to be related to map based on keyword 'property'
+   Description: Mountain View
+
+23. Untitled Image
+   Size: 420x272 PT
+   Aspect Ratio: 1.55
+   Location: Index 15332
+   Context: Image appears to be related to map based on keyword 'property'
+   Description: Mountain Home

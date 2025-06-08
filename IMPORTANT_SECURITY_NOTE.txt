@@ -1,0 +1,18 @@
+IMPORTANT SECURITY NOTICE
+========================
+
+The client secret you shared (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) has been exposed.
+
+IMMEDIATE ACTIONS REQUIRED:
+1. Go to Google Cloud Console > APIs & Services > Credentials
+2. Find the OAuth 2.0 Client ID that uses this secret
+3. Click on it and regenerate the client secret
+4. Delete the old secret
+
+NEXT STEPS FOR GOOGLE DOCS API:
+1. Create a NEW OAuth client
+2. Choose "Desktop app" (not Web application)
+3. Download the JSON file
+4. Save it as credentials.json
+
+The Desktop app type is required for Python scripts.

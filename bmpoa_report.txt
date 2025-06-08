@@ -1,0 +1,54 @@
+BMPOA Document Analysis Report
+Generated: 2025-06-08 16:36:27
+============================================================
+
+Document: FreshAttemptHTMLversion
+
+Statistics:
+  - Paragraphs: 787
+  - Tables: 0
+  - Total Words: 8,094
+  - Total Characters: 53,809
+  - Average Paragraph Length: 10.3 words
+
+Sections Found: 172
+  1. BLUE MOUNTAIN PROPERTY OWNERS ASSOCIATION
+  2. TABLE OF CONTENTS
+  3. I. GOVERNANCE & STRUCTURE
+  4. II. A MOUNTAIN HOME
+  5. III. WOOD-CHIPPING PROGRAM
+  6. IV. FIRE SAFETY & EMERGENCY PREPAREDNESS
+  7. V. COMMUNITY SERVICES & AMENITIES
+  8. VI. DEER LAKE RECREATION AREA
+  9. VII. THE LODGE
+  10. VIII. COMMUNITY COMMUNICATION
+  11. IX. CONTACTS & COMMUNICATION
+  12. I. GOVERNANCE & STRUCTURE
+  13. A. BMPOA OVERVIEW
+  14. 1. PURPOSE & MISSION
+  15. 2. LEGAL STATUS
+  16. YOUR RELATIONSHIP WITH BMPOA
+  17. 3. MANAGEMENT STRUCTURE
+  18. BOARD ELECTIONS 2025
+  19. B. SANITARY DISTRICT EXPLAINED
+  20. 1. WHAT IS A SANITARY DISTRICT?
+
+Email Addresses:
+  - architecture@bmpoa.org
+  - vicepresident@bmpoa.org
+  - bmpoadeerlake@gmail.com
+  - president@bmpoa.org
+  - treasurer@bmpoa.org
+  - bluemountainlodgebooking@gmail.com
+  - jcook0313@gmail.com
+  - lillardr8@gmail.com
+  - quietgeneral@yahoo.com
+  - vicepresident2@bmpoa.org
+  - bmpoaroads@gmail.com
+  - communications@bmpoa.org
+  - secretary@bmpoa.org
+
+Phone Numbers:
+  - 855-399-1542
+  - 800-222-1222
+  - 800-552-3904
